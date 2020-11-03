@@ -25,9 +25,6 @@ logger.propogate= False
 record_separator = "\n"
 
 def process_content(content):
-
-	number = float(content)
-
 	return dict(
 			content=content,
 			size=sys.getsizeof(content)
