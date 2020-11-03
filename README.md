@@ -12,4 +12,4 @@
 - make stream # to send sample data
 <br>
 <br>
-After a few minutes, you can see the output of the firehoses in S3.
+After a few minutes, you can see the output of the firehose in S3.
